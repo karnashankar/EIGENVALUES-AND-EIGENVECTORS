@@ -5,7 +5,7 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step1 :Screenshot from 2022-12-29 11-11-00.png 
+### Step1 :Import the numpy module to use the built-in functiosn for calculations
 ### Step 2: Prepare the lists from each linear equations and assign in
 np.array()
 ### Step 3: Using the np.linalg.solve(), we can find the solutions
